@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/80/ec/77/80ec77932091113c4970a88f69b9bb4f.gif"  />
+  <img height="360" src="https://i.pinimg.com/736x/ca/52/e8/ca52e8d6d363a495219e23cc522a6179.jpg"  />
 </div>
 
 ###
@@ -20,18 +20,14 @@
 
 ###
 
+<br clear="both">
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=true&fontSize=68&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&text=:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::&fontSize=20&fontColor=afdaeo&fontAlign=50&fontAlignY=50&stroke=a9c7ee&strokeWidth=1&animation=blink&descAlign=50&descAlignY=50&textBg=true&theme=dark"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
-  <img width="200" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="200" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
-</div>
+<p align="left">About Me <3<br>               Hi, I'm Juan MIguel Tan from Las Vegas..... Mowdels</p>
 
 ###
