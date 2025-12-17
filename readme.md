@@ -23,11 +23,32 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&text=:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::&fontSize=20&fontColor=afdaeo&fontAlign=50&fontAlignY=50&stroke=a9c7ee&strokeWidth=1&animation=blink&descAlign=50&descAlignY=50&textBg=true&theme=dark"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=30&section=header&reversal=false&text=:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::&fontSize=20&fontColor=afdaeo&stroke=a9c7ee&strokeWidth=1&animation=blink&theme=dark" />
 </div>
 
-###
 
-<p align="left">About Me <3<br>               Hi, I'm Juan MIguel Tan from Las Vegas..... Mowdels</p>
+<h2 align="left">𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 ❤</h2>
+
+
+Hello! I’m 𝐉𝐮𝐚𝐧 𝐌𝐢𝐠𝐮𝐞𝐥 𝐓𝐚𝐧, a student from the 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐜𝐚𝐥 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐢𝐧𝐞𝐬.
+
+I am currently focused on learning and developing my skills in technology and programming, with a strong interest in applying my knowledge through practical and hands-on work. I enjoy learning new concepts, coding, and continuously improving my abilities through study and experience.
+
+As a self-motivated learner, I am eager to grow, explore new technologies, and gain deeper knowledge in my field.
+</p>
+
+<h2 align="left">𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐒𝐭𝐚𝐜𝐤</h2>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+</div>
 
 ###
